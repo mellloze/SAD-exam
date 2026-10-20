@@ -1,2 +1,3 @@
 const name = "Juan";
-console.log(name);
+const lName = "De la Cruz";
+console.log(name, lName);
